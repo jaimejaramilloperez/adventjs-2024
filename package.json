@@ -1,0 +1,21 @@
+{
+  "name": "adventjs-2024",
+  "version": "1.0.0",
+  "description": "Solution to the Adventjs 2024 challenges by @midudev",
+  "type": "module",
+  "author": "Jaime Jaramillo Pérez",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaimejaramilloperez/adventjs-2024.git"
+  },
+  "keywords": [
+    "adventjs",
+    "challenges",
+    "challenge",
+    "javascript"
+  ]
+}
