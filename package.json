@@ -23,7 +23,8 @@
     "lint:fix": "standard --fix",
     "challenges": "node --test",
     "challenge1": "node --test ./src/challenge-01",
-    "challenge2": "node --test ./src/challenge-02"
+    "challenge2": "node --test ./src/challenge-02",
+    "challenge3": "node --test ./src/challenge-03"
   },
   "devDependencies": {
     "standard": "17.1.2"
