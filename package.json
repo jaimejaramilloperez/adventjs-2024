@@ -36,7 +36,8 @@
     "challenge12": "node --test ./src/challenge-12",
     "challenge13": "node --test ./src/challenge-13",
     "challenge14": "node --test ./src/challenge-14",
-    "challenge15": "node --test ./src/challenge-15"
+    "challenge15": "node --test ./src/challenge-15",
+    "challenge16": "node --test ./src/challenge-16"
   },
   "devDependencies": {
     "standard": "17.1.2"
