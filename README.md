@@ -590,6 +590,9 @@ node -v
 
 This should show the version of Node.js installed. If it is not installed, download it from the [official site](https://nodejs.org/).
 
+> [!IMPORTANT]
+> The minimum node version required is **22.12.0**
+
 To run this project on your local machine, follow the steps below:
 
 1. Clone the repository.

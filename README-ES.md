@@ -590,6 +590,9 @@ node -v
 
 Esto debería mostrar la versión de Node.js instalada. Si no está instalado, descárgalo desde la [página oficial](https://nodejs.org/).
 
+> [!IMPORTANT]
+> La versión mínima requerida de node es la **22.12.0**
+
 Para ejecutar este proyecto en su máquina local, sigue los pasos que se indican a continuación:
 
 1. Clona el repositorio.

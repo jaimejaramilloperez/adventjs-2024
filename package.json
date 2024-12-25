@@ -6,7 +6,7 @@
   "author": "Jaime Jaramillo Pérez",
   "license": "ISC",
   "engines": {
-    "node": ">=20.18.0"
+    "node": ">=22.12.0"
   },
   "repository": {
     "type": "git",
